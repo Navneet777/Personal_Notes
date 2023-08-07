@@ -32,3 +32,7 @@ docker stop <container id>
 
 **Check Docker Logs**
 docker logs -f <container id>
+
+**Check Local Images**
+docker images
+**
